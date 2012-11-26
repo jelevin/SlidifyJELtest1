@@ -1,6 +1,6 @@
 ---
 title       : Jim's first slidify test
-subtitle    : 
+subtitle    : It's markdown formatted!
 author      : Jim Levin
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -10,7 +10,7 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Read-And-Delete
+## Read-And-Delete this first slide
 
 1. Edit YAML front matter
 2. Write using R Markdown
@@ -18,8 +18,20 @@ mode        : selfcontained # {standalone, draft}
 
 --- .class #id 
 
-## Slide 2
+## Slide 2 just a test
+Header 1
+=========================
+Here is some stuff under header 1
 
+Header 2
+-------------------------
+Here is some stuff under header 2
 
+### Header 3
 
+#### Header 4
+* Here is the first point
+* Here is the second point
+  * this is a subpoint
+  
 
